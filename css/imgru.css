@@ -1,0 +1,55 @@
+#imgruLogo {
+    height: 100%;
+}
+
+#sortHead{
+    font-size: 1.4em;
+    text-align: center;
+}
+
+#sortTag {
+    font-size: 1em;
+    text-align: center;
+}
+
+.fa-clock-o {
+    padding: 5px;
+}
+
+.fa-random {
+    padding: 5px;
+}
+
+.uploadButton {
+    margin-top: 8px;
+    margin-left: 10px;
+}
+
+.fa-cloud-upload {
+    padding: 2px;
+    padding-right: 4px;
+}
+.jumbotron {
+    /*Recommended Padding By Bootstrap*/
+    padding-top: 70px;
+}
+
+.separateButtonAngle {
+    margin-top: 8px;
+    border: none;
+    background: #EEE;
+}
+
+.jumbotronButtons {
+    border: none;
+    background: #EEE;
+    font-size: 1em;
+}
+
+.buttonAngle {
+    padding-left: 6px;
+}
+
+body {
+    background: Gainsboro;
+}
